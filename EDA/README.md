@@ -33,57 +33,74 @@ Se puede observar que la variable categórica "Reason" no se incluye en este res
 
 - **¿Hay valores atípicos en el conjunto de datos? Si es así, ¿se realizó una gráfica de cajas para visualizar dichos valores?**
   
-  [Descripción de valores atípicos y visualización.]
+ Si hay valores atípicos, se realiza una gráfica de cajas para visualizar dichos valores. Hay pocos valores atípicos en la distribución.
 
-  ![Valores Atípicos](ruta/a/imagen.png)
+  ![Valores Atípicos](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/AValues.png)
 
 ### 4. Cardinalidad de las Variables Categóricas
 
 - **¿Cuál es la cardinalidad de las variables categóricas?**
+
+La única variable categórica presente, denominada "Reason", exhibe una diversidad con 362 valores distintos. No obstante, esta variable no incide en el modelo propuesto, ya que no se considerará en la formulación del modelo de predicción de uptime.
+
   
-  [Describir la cardinalidad de la variable categórica "Reason".]
+![CArdinalidad Variables Categoricas](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/cardinalidad.png)
 
 ### 5. Distribuciones Sesgadas y Transformaciones No Lineales
 
 - **¿Existen distribuciones sesgadas en el conjunto de datos? ¿Es necesaria alguna transformación no lineal?**
-  
-  [Discusión sobre distribuciones sesgadas y transformaciones.]
 
+La duración del paro tiene una distribución ligeramente sesgada a la derecha, con una mayor concentración de valores en la parte baja del rango.
+La mediana de la duración del paro es de aproximadamente 0.8 unidades (no se especifica la unidad de medida en la imagen).
+La mayoría de los valores de la duración del paro se encuentran dentro del rango intercuartil (IQR), lo que indica que hay una dispersión moderada de los datos.
+  
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 ### 6. Identificación de Tendencias Temporales
 
 - **¿Se identifican tendencias temporales en el conjunto de datos?**
   
-  [Descripción de tendencias temporales identificadas.]
+Incidentes al año
+El gráfico muestra una tendencia general al alza en el número de incidentes a lo largo de los 12 meses. Esto significa que el número de fallas está aumentando con el tiempo.
+El gráfico también muestra fluctuaciones estacionales en el número de incidentes. Por ejemplo, hay un pico en el número de incidentes en enero y marzo, y una caída en el número de incidentes en junio y julio.
+El gráfico también muestra una variabilidad mes a mes en el número de incidentes. Esto significa que el número de fallas no siempre es el mismo de un mes a otro. 
+
+![Tendencias Incidencias por Año/Mes](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/Incxmes.png)
+
+Incidentes por duración de tiempo
+Tendencia general: En general, se observa una tendencia decreciente en la duración promedio del paro a lo largo de los años. Esto significa que, en promedio, las personas están menos tiempo en situación de paro en los últimos años en comparación con años anteriores.
+Variaciones estacionales: Se observa una variación estacional en la duración promedio del paro, con valores más altos en los meses de invierno (diciembre, enero y febrero) y valores más bajos en los meses de verano (junio, julio y agosto).
+
+![Tendencias duracion de incidencias por Año/Mes](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/durxmes.png)
 
 ### 7. Correlación entre Variables
 
 - **¿Hay correlación entre las variables dependientes e independientes?**
   
-  [Resultados de la correlación entre variables.]
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ### 8. Distribución de Datos en Función de Categorías
 
 - **¿Cómo se distribuyen los datos en función de diferentes categorías?**
   
-  [Descripción de la distribución de datos por categorías.]
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ### 9. Patrones o Agrupaciones (Clusters) en los Datos
 
 - **¿Existen patrones o agrupaciones (clusters) en los datos con características similares?**
   
-  [Discusión sobre patrones o clusters identificados.]
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ### 10. Normalización de Imágenes
 
 - **¿Se deberían normalizar las imágenes para visualizarlas mejor?**
   
-  [Recomendación sobre la normalización de imágenes.]
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ### 11. Desbalance en las Clases de la Variable Objetivo
 
 - **¿Hay desbalance en las clases de la variable objetivo?**
   
-  [Descripción de desbalance en las clases de la variable objetivo.]
+![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ## Contribuciones y Contacto
 
