@@ -26,7 +26,7 @@ Estos análisis previos garantizan la calidad y confiabilidad del conjunto de da
 El tiempo medio de duración de los periodos de inactividad es de aproximadamente 279.58 segundos, con una desviación estándar de 8,766.96 segundos. La duración mínima registrada es de -32.04 segundos, lo que puede deberse a errores en los datos o registros incorrectos.
 La fecha y hora de inicio y finalización de los periodos de inactividad tienen una distribución uniforme a lo largo de los días del mes y los meses del año, sin evidencia de patrones específicos.
 Se puede observar que la variable categórica "Reason" no se incluye en este resumen ya que no tiene un resumen estadístico como las variables numéricas.
-
+  ![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
 
 ### 3. Valores Atípicos
 
