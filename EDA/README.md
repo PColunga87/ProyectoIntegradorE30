@@ -74,36 +74,26 @@ Variaciones estacionales: Se observa una variación estacional en la duración p
 
 ### 7. Correlación entre Variables
 
-- **¿Hay correlación entre las variables dependientes e independientes?**
-  
-![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
+
 
 ### 8. Distribución de Datos en Función de Categorías
 
-- **¿Cómo se distribuyen los datos en función de diferentes categorías?**
-  
-![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
+
 
 ### 9. Patrones o Agrupaciones (Clusters) en los Datos
 
-- **¿Existen patrones o agrupaciones (clusters) en los datos con características similares?**
-  
-![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
+
 
 ### 10. Normalización de Imágenes
 
-- **¿Se deberían normalizar las imágenes para visualizarlas mejor?**
-  
-![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
+
 
 ### 11. Desbalance en las Clases de la Variable Objetivo
 
-- **¿Hay desbalance en las clases de la variable objetivo?**
-  
-![Estadistica Descriptiva](https://github.com/JulioQuintanaGarcia/ProyectoIntegradorE30/blob/main/images/DSta.png)
+
 
 ## Contribuciones y Contacto
 
-Si tienes alguna pregunta o sugerencia sobre el análisis realizado o el código asociado, no dudes en contactar al equipo a través de [correo electrónico](mailto:ejemplo@correo.com).
+Si tienes alguna pregunta o sugerencia sobre el análisis realizado o el código asociado, no dudes en contactar al equipo a través de [Julio Quintana](A01793661@tec.mx) | [Pablo Colunga] (A01793671@tec.mx) | [Marco Antonio Lopez](A01113135@tec.mx) .
 
 ¡Gracias por tu interés en nuestro análisis exploratorio de datos!
